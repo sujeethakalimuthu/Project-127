@@ -1,0 +1,39 @@
+.copy_right_footer
+{
+    position:fixed;
+    color:red;
+    border-style:double;
+    background-color: greenyellow;
+    border-color:blue;
+    width:100%;
+    bottom:-1mm;
+    line-height:45px;
+    box-shadow: 5px -5px 5px gold;
+    font-size:x-large;
+    font-family:'Share Tech', sans-serif;
+    border-radius:10px;
+}
+
+canvas
+{
+    border:5px double yellowgreen;
+    border-radius:30px;
+}
+.note
+{
+    font-size:15px;
+    color:black;
+}
+body
+{
+    background-size:cover;
+}
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    font-family:'Share Tech', sans-serif;
+    box-shadow:5px 5px 5px grey;
+    
+}
