@@ -1,22 +1,22 @@
 .copy_right_footer
 {
     position:fixed;
-    color:red;
+    color:white;
     border-style:double;
-    background-color: greenyellow;
+    background-color: rebeccapurple;
     border-color:blue;
     width:100%;
     bottom:-1mm;
     line-height:45px;
-    box-shadow: 5px -5px 5px gold;
-    font-size:x-large;
+    box-shadow: 5px -5px 5px grey;
+    font-size:medium;
     font-family:'Share Tech', sans-serif;
     border-radius:10px;
 }
 
 canvas
 {
-    border:5px double yellowgreen;
+    border:5px double gold;
     border-radius:30px;
 }
 .note
